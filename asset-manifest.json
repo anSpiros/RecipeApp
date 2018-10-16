@@ -1,15 +1,15 @@
 {
-  "main.css": "/RecipeApp/static/css/main.11964d06.chunk.css",
-  "main.js": "/RecipeApp/static/js/main.9ce9bf0a.chunk.js",
-  "main.js.map": "/RecipeApp/static/js/main.9ce9bf0a.chunk.js.map",
+  "main.css": "/RecipeApp/static/css/main.28219267.chunk.css",
+  "main.js": "/RecipeApp/static/js/main.2fef74a6.chunk.js",
+  "main.js.map": "/RecipeApp/static/js/main.2fef74a6.chunk.js.map",
   "static/css/1.7e2da970.chunk.css": "/RecipeApp/static/css/1.7e2da970.chunk.css",
-  "static/js/1.ba546f71.chunk.js": "/RecipeApp/static/js/1.ba546f71.chunk.js",
-  "static/js/1.ba546f71.chunk.js.map": "/RecipeApp/static/js/1.ba546f71.chunk.js.map",
+  "static/js/1.332a4ef3.chunk.js": "/RecipeApp/static/js/1.332a4ef3.chunk.js",
+  "static/js/1.332a4ef3.chunk.js.map": "/RecipeApp/static/js/1.332a4ef3.chunk.js.map",
   "runtime~main.js": "/RecipeApp/static/js/runtime~main.62829c84.js",
   "runtime~main.js.map": "/RecipeApp/static/js/runtime~main.62829c84.js.map",
   "static/css/1.7e2da970.chunk.css.map": "/RecipeApp/static/css/1.7e2da970.chunk.css.map",
-  "static/css/main.11964d06.chunk.css.map": "/RecipeApp/static/css/main.11964d06.chunk.css.map",
+  "static/css/main.28219267.chunk.css.map": "/RecipeApp/static/css/main.28219267.chunk.css.map",
   "index.html": "/RecipeApp/index.html",
-  "precache-manifest.a03a19e8254c351b1f4cd671693d2973.js": "/RecipeApp/precache-manifest.a03a19e8254c351b1f4cd671693d2973.js",
+  "precache-manifest.05528f906d2ca65c6005ca8084d3967e.js": "/RecipeApp/precache-manifest.05528f906d2ca65c6005ca8084d3967e.js",
   "service-worker.js": "/RecipeApp/service-worker.js"
 }
